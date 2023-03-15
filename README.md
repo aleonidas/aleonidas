@@ -8,7 +8,7 @@
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleonidas&show_icons=true) 
 -->
 
-
+<!-- 
 ### Stack
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge-flat&logo=css3&logoColor=white)
@@ -27,3 +27,4 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge-flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge-flat&logo=amazon-aws&logoColor=white)
+ -->
